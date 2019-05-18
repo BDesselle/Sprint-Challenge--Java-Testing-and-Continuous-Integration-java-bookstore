@@ -30,10 +30,3 @@ curl -H "Accept: application/json" -H "Authorization: Bearer a525c7d8-aab0-452e-
 
 
 
-
-
-
-
-
-
-
